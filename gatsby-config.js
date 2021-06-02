@@ -3,13 +3,13 @@ module.exports = {
   siteMetadata: {
     title: `Leonids`,
     author: {
-      name: `@ry_zou`,
+      name: `@DanielTolentino`,
       summary: `web dev`,
     },
     description: `A simple, fixed sidebar two columns Gatsby.js blog starter.`,
-    siteUrl: `https://renyuanz.github.io/leonids`,
+    siteUrl: `https://certificard.netlify.app/`,
     social: {
-      twitter: `ry_zou`,
+      instagram: `daniel.tolentino.0`,
     },
     defaultImage: "images/bg.jpeg",
   },
