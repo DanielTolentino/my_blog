@@ -6,7 +6,6 @@ backend:
   name: uploads
 
   collections:
-  - name: "Daniel Tolentino"
     label: "Blog"
     folder: "content/blog"
     create: true
