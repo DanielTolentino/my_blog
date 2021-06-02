@@ -5,7 +5,7 @@ backend:
 media_folder: /static/admin/images/uploads
 public_folder: /images
 
-  collections:
+collections:
     name: "blog"
     label: "Blog"
     folder: "content/blog"
