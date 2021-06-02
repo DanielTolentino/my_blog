@@ -1,3 +1,0 @@
-# Olá Mundo
-
-## Amo vocês!
