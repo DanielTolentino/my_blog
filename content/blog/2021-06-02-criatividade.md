@@ -13,7 +13,9 @@ Primeira coisa antes de continuar: O que é criatividade para você?
 
 Pensou?
 
-![img](https://cdn-images-1.medium.com/max/800/0*YKA3gb8R9-5VFsmN)
+
+
+![dois lápis em cima de um fundo amarelo](https://cdn-images-1.medium.com/max/800/0*YKA3gb8R9-5VFsmN)
 
 Photo by [Joanna Kosinska](https://unsplash.com/@joannakosinska?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)
 
