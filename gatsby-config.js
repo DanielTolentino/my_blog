@@ -7,7 +7,7 @@ module.exports = {
       summary: `web dev`,
     },
     description: `A simple, fixed sidebar two columns Gatsby.js blog starter.`,
-    siteUrl: `https://certificard.netlify.app/`,
+    siteUrl: `https://danieltolentino.netlify.app/`,
     social: {
       instagram: `daniel.tolentino.0`,
     },
