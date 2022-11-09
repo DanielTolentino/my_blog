@@ -8,7 +8,7 @@
     "url": "https://github.com/renyuanz/leonids/issues"
   },
   "dependencies": {
-    "gatsby": "^4.13.1",
+    "gatsby": "^5.0.0",
     "gatsby-image": "^3.11.0",
     "gatsby-plugin-dark-mode": "^1.1.2",
     "gatsby-plugin-feed": "^2.13.1",
@@ -24,7 +24,7 @@
     "gatsby-remark-prismjs": "^6.13.0",
     "gatsby-remark-responsive-iframe": "^5.13.0",
     "gatsby-remark-smartypants": "^5.13.0",
-    "gatsby-source-filesystem": "^4.13.0",
+    "gatsby-source-filesystem": "^4.24.0",
     "gatsby-transformer-remark": "^5.13.0",
     "gatsby-transformer-sharp": "^4.13.0",
     "prismjs": "^1.28.0",
