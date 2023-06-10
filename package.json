@@ -8,7 +8,7 @@
     "url": "https://github.com/renyuanz/leonids/issues"
   },
   "dependencies": {
-    "gatsby": "^5.0.0",
+    "gatsby": "^5.9.1",
     "gatsby-image": "^3.11.0",
     "gatsby-plugin-dark-mode": "^1.1.2",
     "gatsby-plugin-feed": "^2.13.1",
